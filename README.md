@@ -7,7 +7,6 @@ An addictive puzzle game inspired by Tetris. Play it at [www.hextris.io](http://
 
 **English** | [简体中文](README.zh-CN.md)
 
-This fork adds a **language option**: the game stays in English by default, and you can switch to **简体中文** with the `EN / 中文` button in the top-right corner. Your choice is remembered automatically.
 
 ---
 
@@ -32,7 +31,7 @@ Did you use Hextris in your research? Cite us as follows:
 ```
 
 ## Contributions
-This project is not very actively maintained, as we are all very busy these days. But feel free to open an issue or PR, and we'll eventually take a look. This fork is maintained and localized by [astrnox](https://github.com/astrnox).
+This project is not very actively maintained, as we are all very busy these days. But feel free to open an issue or PR, and we'll eventually take a look. 
 
 ## About
 Hextris was created by a group of high school friends in 2014.
