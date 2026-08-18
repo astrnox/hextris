@@ -13,6 +13,9 @@ var I18N = (function() {
 			'gameOver': 'GAME OVER',
 			'highScores': 'HIGH SCORES',
 			'shareMyScore': 'SHARE MY SCORE!',
+			'rank1': '1st: ',
+			'rank2': '2nd: ',
+			'rank3': '3rd: ',
 			'play': 'Play!',
 			// help screen (js/main.js showHelp)
 			'howToPlay': 'HOW TO PLAY',
@@ -44,6 +47,9 @@ var I18N = (function() {
 			'gameOver': '游戏结束',
 			'highScores': '高分榜',
 			'shareMyScore': '分享我的分数！',
+			'rank1': '第一名：',
+			'rank2': '第二名：',
+			'rank3': '第三名：',
 			'play': '开始游戏！',
 			'howToPlay': '玩法说明',
 			'goal': 'Hextris 的目标是阻止方块离开外圈灰色六边形的内部。',
@@ -106,6 +112,9 @@ var I18N = (function() {
 		setText('highScoreInGameTextHeader', 'highScore');
 		setText('gameOverBox', 'gameOver');
 		setText('highScoresTitle', 'highScores');
+		setText('rank1Label', 'rank1');
+		setText('rank2Label', 'rank2');
+		setText('rank3Label', 'rank3');
 		var share = document.getElementById('shareMyScoreText');
 		if (share) {
 			share.textContent = t('shareMyScore');
